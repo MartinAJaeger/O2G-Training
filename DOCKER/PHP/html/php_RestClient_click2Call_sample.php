@@ -139,15 +139,15 @@ curl_close ($ch_mkcall);
 
     <P>
     <LABEL for="serverIP">Server address </LABEL>
-              <INPUT type="text" name ="Server" value = "vm-roxel2.bstlabrd.fr.alcatel-lucent.com"> <BR>
+              <INPUT type="text" name ="Server" value = "o2g.company.com"> <BR>
     <LABEL for="userlogin">User loginName </LABEL>
-              <INPUT type="text" name ="Userlogin" value = "oxe70121">  <BR>
+              <INPUT type="text" name ="Userlogin" value = "oxe31000">  <BR>
     <LABEL for="password">User password </LABEL>
               <INPUT type="password" name="Password" value = "0000"><BR>
     <LABEL for="calling">Calling device number </LABEL>
-              <INPUT type="text" name="Calling" value = "70121"><BR>
+              <INPUT type="text" name="Calling" value = "31000"><BR>
     <LABEL for="called">Called </LABEL>
-              <INPUT type="text" name="Called" value = "70120"><BR>
+              <INPUT type="text" name="Called" value = "31001"><BR>
 			  
 	<INPUT TYPE = "Submit" Name = "ClickAndCall" VALUE = "clickAndCall">
 
