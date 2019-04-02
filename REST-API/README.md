@@ -12,5 +12,5 @@ Run the commands and check the results
 REST-API-DOS
 Unpack curl.exe and the batch files into a windows directory
 Start the batch files
-# In windows 10 curl is available in \windows\system32
-# Modify the path variable in environments
+- In windows 10 curl is available in \windows\system32
+- Modify the path variable in environments
