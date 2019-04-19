@@ -12,4 +12,4 @@ Files for O2G-Training
 - REST-API-DOS
   - Unpack curl.exe and the batch files into a windows directory
   - Start the batch files
-    - In windows 10 curl is available in \windows\system32
+  - In windows 10 curl is available in \windows\system32
